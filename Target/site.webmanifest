@@ -1,0 +1,10 @@
+{
+	"background_color": "#47572b",
+	"categories": [],
+	"display": "minimal-ui",
+	"name": "The Hardest Game",
+	"orientation": "landscape",
+	"short_name": "thehardestgame",
+	"start_url": "/~nikola",
+	"theme_color": "#47572b"
+}
