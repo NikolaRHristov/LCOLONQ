@@ -8,6 +8,9 @@ export default (await import("astro/config")).defineConfig({
 	base: "/~nikola",
 	compressHTML: true,
 	prefetch: true,
+	server: {
+		port: 9999,
+	},
 	build: {
 		concurrency: 9999,
 	},
