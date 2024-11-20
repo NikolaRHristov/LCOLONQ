@@ -51,7 +51,7 @@ const f = "modulepreload",
 	};
 (
 	await E(async () => {
-		const { initializeApp: o } = await import("./index.esm.CKdHjiUb.js");
+		const { initializeApp: o } = await import("./index.esm.BE6rRU-J.js");
 		return { initializeApp: o };
 	}, [])
 ).initializeApp({
@@ -64,4 +64,4 @@ const f = "modulepreload",
 	projectId: "",
 	storageBucket: "",
 });
-//# sourceMappingURL=Base.astro_astro_type_script_index_0_lang.DDmvetYs.js.map
+//# sourceMappingURL=Base.astro_astro_type_script_index_0_lang.SXchAMrH.js.map
